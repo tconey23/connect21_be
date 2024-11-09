@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ALFfdjHSFujo0B4EGYPImDilgCc6R",
+  "id": "chatcmpl-ARkoFdxd7N1LYmQOPorIWHKzULH9A",
   "object": "chat.completion",
-  "created": 1729628489,
+  "created": 1731178155,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\"Laughing until your stomach hurts\", \"The smell of fresh rain on hot pavement\", \"An unexpected compliment from a stranger\", \"Finding money in your pocket\", \"Watching a storm from inside a cozy room\", \"The first sip of a perfect cup of coffee\", \"Dancing like nobody is watching\", \"Creating something beautiful out of nothing\", \"Reading an old love letter\", \"The sound of a crackling campfire\", \"Belting out your favorite song in the car\", \"Discovering a hidden gem of a book\", \"Wandering through a new city with no plan\", \"Sleeping in on a rainy Sunday morning\", \"The taste of homemade chocolate chip cookies\", \"The crackling sound of a vinyl record playing\", \"Receiving a handwritten letter in the mail\", \"Stargazing on a clear night\", \"The feeling of accomplishment after a challenging workout\", \"Finding the perfect vintage thrift store treasure\", \"Enjoying a sunset with someone you love\"]",
+        "content": "[\"Dark chocolate melting on your tongue\", \"The sound of rain on a summer night\", \"Vintage vinyl crackling softly\", \"The smell of freshly baked bread\", \"Graffiti art in hidden alleys\", \"Wearing your favorite band tee\", \"The feeling of adrenaline kicking in\", \"Late-night conversations under the stars\", \"Powerful lyrics hitting you hard\", \"Walking barefoot on cool grass\", \"Discovering a hidden gem\", \"The first sip of morning coffee\", \"The buzz of a busy city\", \"Burnt orange sunsets on the horizon\", \"The rush of freedom on an open road\", \"Soft whispers in a crowded room\", \"Books with worn-out pages\", \"Dancing in an empty room\", \"Bold lipstick and wild hair\", \"Unexpected acts of kindness\", \"Ink on skin telling a story\"]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,13 +17,17 @@
   ],
   "usage": {
     "prompt_tokens": 131,
-    "completion_tokens": 197,
-    "total_tokens": 328,
+    "completion_tokens": 171,
+    "total_tokens": 302,
     "prompt_tokens_details": {
-      "cached_tokens": 0
+      "cached_tokens": 0,
+      "audio_tokens": 0
     },
     "completion_tokens_details": {
-      "reasoning_tokens": 0
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
     }
   },
   "system_fingerprint": null
