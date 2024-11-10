@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBKj9zBSNF2sDa3znETQkz9OMgwV",
+  "id": "chatcmpl-ASBKoIf4nSCYcsTa45VUEhcIUw0it",
   "object": "chat.completion",
-  "created": 1731280113,
+  "created": 1731280118,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n  \"Chaos and order dance together in perfect harmony.\",\n  \"The raw power of self-expression through art.\",\n  \"Embracing the darkness within to find the light.\",\n  \"Taking risks and pushing boundaries relentlessly.\",\n  \"The thrill of standing on the edge of the unknown.\",\n  \"Finding beauty in the broken and imperfect.\",\n  \"The rebel spirit that defies all rules and norms.\",\n  \"The intoxicating rush of adrenaline in your veins.\",\n  \"Challenging the status quo with fearless abandon.\",\n  \"The electrifying energy of a crowded punk rock show.\",\n  \"Exploring the depths of your own mind and soul.\",\n  \"The allure of uncharted territories and unexplored paths.\",\n  \"Savoring the taste of freedom without constraints.\",\n  \"The magnetic pull of danger and excitement.\",\n  \"The seductive power of a dark and mysterious aura.\",\n  \"Breaking free from the chains of conformity.\",\n  \"The fierce independence of marching to your own beat.\",\n  \"The rebellious spirit that refuses to be tamed.\",\n  \"Embracing the wild and untamed parts of yourself.\",\n  \"The hypnotic beauty of chaos in motion.\",\n  \"The thrill of diving headfirst into the unknown.\"  \n]",
+        "content": "[\n  \"The thrill of taking risks\",\n  \"The rush of adrenaline\",\n  \"The feeling of rebellion\",\n  \"The allure of darkness\",\n  \"The beauty of chaos\",\n  \"The power of defiance\",\n  \"The intensity of passion\",\n  \"The ecstasy of freedom\",\n  \"The taste of danger\",\n  \"The seduction of mystery\",\n  \"The energy of rebellion\",\n  \"The edge of the unknown\",\n  \"The intoxication of adrenaline\",\n  \"The rebellion against the norm\",\n  \"The darkness of desire\",\n  \"The fire of determination\",\n  \"The thrill of the forbidden\",\n  \"The power of being different\",\n  \"The allure of the forbidden\",\n  \"The beauty of defiance\",\n  \"The rush of breaking barriers\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 255,
-    "total_tokens": 306,
+    "completion_tokens": 158,
+    "total_tokens": 209,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
