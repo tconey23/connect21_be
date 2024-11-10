@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASAtLCSYmIuOvjmDQYLbSfVZuOlzo",
+  "id": "chatcmpl-ASAtTo1HM7Ls9fvR7Ips0KnJzS0YY",
   "object": "chat.completion",
-  "created": 1731278415,
+  "created": 1731278423,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n  \"The feeling of adrenaline coursing through your veins\",\n  \"The sound of a roaring thunderstorm outside your window\",\n  \"The taste of danger in the air\",\n  \"The rush of breaking the rules\",\n  \"The beauty of chaos in motion\",\n  \"The thrill of pushing your limits\",\n  \"The power of standing out from the crowd\",\n  \"The mesmerizing allure of the unknown\",\n  \"The intoxicating scent of rebellion\",\n  \"The freedom of defying expectations\",\n  \"The excitement of walking on the edge\",\n  \"The satisfaction of being a little bit wild\",\n  \"The energy of stepping outside your comfort zone\",\n  \"The joy of embracing your inner darkness\",\n  \"The edge of a sharp blade against your skin\",\n  \"The allure of the forbidden\",\n  \"The intensity of a fiery passion\",\n  \"The thrill of living on the edge of society\",\n  \"The magnetic pull of danger\",\n  \"The excitement of dancing with the devil\",\n  \"The rush of living life on the edge\"\n]",
+        "content": "[\n  \"Dark humor\",\n  \"Raw emotion\",\n  \"Mystery\",\n  \"Chaos\",\n  \"Rebellion\",\n  \"Imperfection\",\n  \"Defiance\",\n  \"Risks\",\n  \"Confrontation\",\n  \"Sarcasm\",\n  \"Edge\",\n  \"Intensity\",\n  \"Irony\",\n  \"Taboo\",\n  \"Counter culture\",\n  \"Anarchy\",\n  \"Provocation\",\n  \"Nonconformity\",\n  \"Authenticity\",\n  \"Passion\",\n  \"Unpredictability\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 215,
-    "total_tokens": 266,
+    "completion_tokens": 112,
+    "total_tokens": 163,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
