@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASB5iJTwNp3v9VEEPLjBgzpN3a2vx",
+  "id": "chatcmpl-ASB5q7tJMMyJVtTaCBS8y6JFHjXeE",
   "object": "chat.completion",
-  "created": 1731279182,
+  "created": 1731279190,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n  \"The thrill of taking risks and pushing boundaries\",\n  \"The raw intensity of a passionate argument\",\n  \"The rebellious spirit in those who dare to defy norms\",\n  \"The unapologetic attitude of a true nonconformist\",\n  \"The dark allure of forbidden desires\",\n  \"The adrenaline rush of standing up for what you believe in\",\n  \"The intoxicating aroma of leather and cigarettes\",\n  \"The electrifying feeling of breaking free from constraints\",\n  \"The seductive power of a mysterious stranger\",\n  \"The haunting beauty of a desolate landscape\",\n  \"The fierce determination of a warrior on a quest\",\n  \"The chaotic energy of a wild storm\",\n  \"The twisted beauty of a shattered mirror\",\n  \"The bittersweet taste of revenge served cold\",\n  \"The enigmatic allure of a cryptic message\",\n  \"The ferocious passion of a fiery romance\",\n  \"The savage beauty of a blood-red sunset\",\n  \"The haunting melody of a melancholy song\",\n  \"The exhilarating rush of a near-death experience\",\n  \"The magnetic pull of a dangerous liaison\",\n  \"The dark depths of a tortured soul\"\n]",
+        "content": "[\n  \"The thrill of chasing your dreams\",\n  \"Unexpected adventures that push you out of your comfort zone\",\n  \"The rush of adrenaline from taking risks\",\n  \"The rebellious feeling of breaking the rules\",\n  \"The power of standing up for what you believe in\",\n  \"The intensity of raw emotions\",\n  \"The beauty of chaos and imperfection\",\n  \"The energy of late-night conversations\",\n  \"The allure of mystery and secrets\",\n  \"The excitement of new beginnings\",\n  \"The freedom of self-expression\",\n  \"The strength found in vulnerability\",\n  \"The passion that drives you to create\",\n  \"The resilience to overcome obstacles\",\n  \"The wisdom gained from life's challenges\",\n  \"The connection felt with kindred spirits\",\n  \"The satisfaction of defying expectations\",\n  \"The inspiration found in unconventional art\",\n  \"The power of music to heal your soul\",\n  \"The courage to speak your truth\",\n  \"The art of embracing the unknown\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 242,
-    "total_tokens": 293,
+    "completion_tokens": 203,
+    "total_tokens": 254,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
