@@ -1,34 +1,25 @@
 {
-  "id": "chatcmpl-ASBNuqoL1NwtwiAW3aeR4ZwtDJj0s",
-  "object": "chat.completion",
-  "created": 1731280310,
-  "model": "gpt-3.5-turbo-0125",
-  "choices": [
-    {
-      "index": 0,
-      "message": {
-        "role": "assistant",
-        "content": "[\n    \"Dark and stormy nights\",\n    \"Ripped jeans and leather jackets\",\n    \"Rebellious graffiti art\",\n    \"The thrill of breaking the rules\",\n    \"Black coffee on a rooftop at sunrise\",\n    \"Skulls and roses tattooed on skin\",\n    \"The chaos of a mosh pit\",\n    \"Daring midnight adventures\",\n    \"The raw honesty of punk music\",\n    \"Provocative and thought-provoking street art\",\n    \"Dangerous love affairs\",\n    \"The adrenaline rush of skydiving\",\n    \"The allure of forbidden fruit\",\n    \"The intensity of a passionate argument\",\n    \"The defiance of a raised middle finger\",\n    \"Walking alone in the rain\",\n    \"The mystery of an abandoned building\",\n    \"Challenging societal norms\",\n    \"The intoxicating scent of leather\",\n    \"Burning bridges and starting anew\",\n    \"Finding beauty in darkness\"\n]",
-        "refusal": null
-      },
-      "logprobs": null,
-      "finish_reason": "stop"
-    }
-  ],
-  "usage": {
-    "prompt_tokens": 51,
-    "completion_tokens": 190,
-    "total_tokens": 241,
-    "prompt_tokens_details": {
-      "cached_tokens": 0,
-      "audio_tokens": 0
-    },
-    "completion_tokens_details": {
-      "reasoning_tokens": 0,
-      "audio_tokens": 0,
-      "accepted_prediction_tokens": 0,
-      "rejected_prediction_tokens": 0
-    }
-  },
-  "system_fingerprint": null
+  "Beast Mode": [
+    "The curious tilt of a parrot's head",
+    "A pod of dolphins spinning wildly behind the wake of a boat",
+    "Cat videos",
+    "When your old dog clears the room with a deadly work of art",
+    "The zig zag of a squirrel in traffic",
+    "A cat quietly judging you",
+    "A rolling tumbleweed of fluffy puppies",
+    "A ferret putting on an acrobatic show",
+    "A rabbit thumping it's foot",
+    "The slow deliberate movements of a tortoise",
+    "The snorts of pigs when they receive a fresh pile of goodness",
+    "A horse gently nuzzling it's owner",
+    "A fox trotting through a field on a mission",
+    "The distant kree of a red tailed hawk",
+    "The jump scare moment a Venus fly trap catching it's prey",
+    "A banana spider spinning an afternoon snack",
+    "The hypnotizing motion of a snake moving through grass ",
+    "The waddle of a penguin navigating uneven ice",
+    "The barking chorus of a colony of sun bathing seals",
+    "The clop-clop, clop-clop of a horse trotting down a cobblestone road",
+    "Two pets who are the best of friends"
+  ]
 }
