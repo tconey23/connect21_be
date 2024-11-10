@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBJ02NCCFdwEo086h0j8PExfj3Vt",
+  "id": "chatcmpl-ASBJ4vn4NMe3LYjOiiSpvOB7XdUTU",
   "object": "chat.completion",
-  "created": 1731280006,
+  "created": 1731280010,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n  \"Sarcasm: my love language.\",\n  \"Black coffee at midnight.\",\n  \"Vintage leather jackets.\",\n  \"Rainy days spent reading.\",\n  \"Indie music that makes you feel.\",\n  \"Wandering through abandoned places.\",\n  \"Smudged eyeliner and messy hair.\",\n  \"The smell of old books.\",\n  \"Late-night conversations that never end.\",\n  \"Cold pizza for breakfast.\",\n  \"Finding beauty in chaos.\",\n  \"Tattoos with hidden meanings.\",\n  \"The sound of a vinyl record.\",\n  \"Dark lipstick and dark thoughts.\",\n  \"Sunsets that make you ache.\",\n  \"Ghost stories around a campfire.\",\n  \"Walking alone in the rain.\",\n  \"Broken mirrors and shattered dreams.\",\n  \"Flawed characters in novels.\",\n  \"The thrill of pushing boundaries.\",\n  \"Wearing black on a sunny day.\"\n]",
+        "content": "[\n  \"The feeling of adrenaline coursing through your veins\",\n  \"The thrill of pushing boundaries and breaking rules\",\n  \"The rush of taking risks and living on the edge\",\n  \"The freedom of being unapologetically yourself\",\n  \"The power of embracing your dark side\",\n  \"The beauty of chaos and disorder\",\n  \"The intensity of raw emotions and passion\",\n  \"The allure of danger and forbidden desires\",\n  \"The rebellion against societal norms and expectations\",\n  \"The darkness that lurks within us all\",\n  \"The seduction of the unknown and unpredictable\",\n  \"The mystique of the forbidden and taboo\",\n  \"The excitement of exploring the depths of your soul\",\n  \"The strength in embracing your flaws and imperfections\",\n  \"The beauty in embracing your scars and wounds\",\n  \"The liberation of breaking free from constraints\",\n  \"The intoxication of adrenaline-fueled adventures\",\n  \"The ecstasy of losing yourself in the moment\",\n  \"The satisfaction of defying expectations and labels\",\n  \"The magic of embracing your inner demons\",\n  \"The enchantment of dancing on the edge of madness\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 180,
-    "total_tokens": 231,
+    "completion_tokens": 235,
+    "total_tokens": 286,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
