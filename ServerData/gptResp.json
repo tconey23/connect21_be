@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBLbCV6rkPQNv6hh4y3pueFK8aY9",
+  "id": "chatcmpl-ASBLhHqpiITbsKt6wH4x6YN4aihha",
   "object": "chat.completion",
-  "created": 1731280167,
+  "created": 1731280173,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n    \"Chaos\",\n    \"Darkness\",\n    \"Rebellion\",\n    \"Anarchy\",\n    \"Obscurity\",\n    \"Intrigue\",\n    \"Defiance\",\n    \"Mystery\",\n    \"Danger\",\n    \"Insubordination\",\n    \"Eclipse\",\n    \"Ravage\",\n    \"Devastation\",\n    \"Insurrection\",\n    \"Disorder\",\n    \"Sinister\",\n    \"Disruption\",\n    \"Revolt\",\n    \"Corruption\",\n    \"Apocalypse\",\n    \"Unrest\"\n]",
+        "content": "[\n    \"Dark lipstick and leather jackets\",\n    \"Rebels with a cause\",\n    \"Messy hair, don't care attitude\",\n    \"Sarcasm as a second language\",\n    \"Vintage band tees and ripped jeans\",\n    \"Tattoos that tell a story\",\n    \"The thrill of the unknown\",\n    \"Late-night adventures and spontaneous road trips\",\n    \"Breaking the rules just because\",\n    \"The feeling of adrenaline rush\",\n    \"Defying expectations and stereotypes\",\n    \"Challenging the status quo\",\n    \"The beauty in chaos and imperfections\",\n    \"Underground music scenes and secret gigs\",\n    \"Black coffee and cigarettes in the early morning\",\n    \"Wanderlust and exploring off-the-beaten-path places\",\n    \"The art of self-expression through fashion\",\n    \"Raw emotions and unfiltered thoughts\",\n    \"Staring fear in the face and not backing down\",\n    \"Biting sarcasm and sharp wit\",\n    \"Rebelling against society's norms and standards\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 109,
-    "total_tokens": 160,
+    "completion_tokens": 210,
+    "total_tokens": 261,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
