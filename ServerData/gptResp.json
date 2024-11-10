@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBG4UvOqMB4g8MZ4lfB1bXOPVos8",
+  "id": "chatcmpl-ASBGTJE5fKiJxT2MFlnoscqsVPjrN",
   "object": "chat.completion",
-  "created": 1731279824,
+  "created": 1731279849,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n    \"The thrill of chasing your dreams against all odds\",\n    \"The bittersweet taste of revenge served cold\",\n    \"The rebellious spirit that refuses to be tamed\",\n    \"The intoxicating rush of adrenaline in your veins\",\n    \"The beauty found in chaos and destruction\",\n    \"The power of a curse whispered under your breath\",\n    \"The feeling of standing on the edge of the abyss\",\n    \"The darkness that lurks within every soul\",\n    \"The ecstasy of losing yourself in the moment\",\n    \"The haunting melody of a broken heart's lament\",\n    \"The allure of forbidden desires that consume you\",\n    \"The sharp sting of betrayal from a trusted ally\",\n    \"The twisted pleasure of embracing your own flaws\",\n    \"The untamed passion of a wild heart\",\n    \"The raw energy of a storm raging inside you\",\n    \"The savage beauty of letting go and free falling\",\n    \"The dangerous allure of a mysterious stranger\",\n    \"The fierce determination to defy all expectations\",\n    \"The seductive power of manipulation and control\",\n    \"The sweet agony of a love that burns too bright\",\n    \"The haunting memory of a past long forgotten\"\n]",
+        "content": "[\n  \"The feeling of adrenaline coursing through your veins\",\n  \"The thrill of taking risks and pushing boundaries\",\n  \"The allure of the unknown and unexplored\",\n  \"The beauty of chaos and unpredictability\",\n  \"The power of standing out and being different\",\n  \"The intensity of raw emotions and passion\",\n  \"The rebellion against societal norms and expectations\",\n  \"The darkness that resides within us all\",\n  \"The strength in overcoming adversity and challenges\",\n  \"The freedom of self-expression and individuality\",\n  \"The spark of creativity and innovation\",\n  \"The magnetism of danger and excitement\",\n  \"The attraction to the unconventional and avant-garde\",\n  \"The edge of embracing your flaws and imperfections\",\n  \"The appeal of breaking free from constraints and rules\",\n  \"The enchantment of finding beauty in the macabre\",\n  \"The allure of the forbidden and taboo\",\n  \"The rush of living on the edge of society\",\n  \"The charm of being a nonconformist and rebel\",\n  \"The satisfaction of defying expectations and limits\",\n  \"The magic of embracing the darker aspects of life\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 244,
-    "total_tokens": 295,
+    "completion_tokens": 237,
+    "total_tokens": 288,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
