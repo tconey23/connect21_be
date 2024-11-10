@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBLW4pVLIy5kAYip4WhZ2XAfPxxh",
+  "id": "chatcmpl-ASBLbCV6rkPQNv6hh4y3pueFK8aY9",
   "object": "chat.completion",
-  "created": 1731280162,
+  "created": 1731280167,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n  \"Dark poetry that bleeds raw emotion\",\n  \"Rebellious spirits that never conform\",\n  \"The thrill of pushing boundaries\",\n  \"Dangerous liaisons that ignite passion\",\n  \"Art that challenges the status quo\",\n  \"Music that screams defiance\",\n  \"Unapologetic self-expression\",\n  \"The power of a piercing gaze\",\n  \"Ink-stained pages filled with turmoil\",\n  \"Unraveling mysteries in the shadows\",\n  \"Beauty found in the darkest corners\",\n  \"Fierce independence that defies all odds\",\n  \"Rumbling thunder on a stormy night\",\n  \"Unbridled passion that consumes\",\n  \"The allure of the forbidden\",\n  \"Daring escapades under a cloak of night\",\n  \"Secrets whispered in hushed tones\",\n  \"Reckless abandon in the heat of the moment\",\n  \"Razor-sharp wit that cuts through the noise\",\n  \"Broken hearts mended with golden threads\",\n  \"The intoxicating scent of chaos\"\n]",
+        "content": "[\n    \"Chaos\",\n    \"Darkness\",\n    \"Rebellion\",\n    \"Anarchy\",\n    \"Obscurity\",\n    \"Intrigue\",\n    \"Defiance\",\n    \"Mystery\",\n    \"Danger\",\n    \"Insubordination\",\n    \"Eclipse\",\n    \"Ravage\",\n    \"Devastation\",\n    \"Insurrection\",\n    \"Disorder\",\n    \"Sinister\",\n    \"Disruption\",\n    \"Revolt\",\n    \"Corruption\",\n    \"Apocalypse\",\n    \"Unrest\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 211,
-    "total_tokens": 262,
+    "completion_tokens": 109,
+    "total_tokens": 160,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
