@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASB5DjV70XsdlsJdHSsmNw1H8hePz",
+  "id": "chatcmpl-ASB5HpkTWCoPSRpVXhYkTIK9jeik5",
   "object": "chat.completion",
-  "created": 1731279151,
+  "created": 1731279155,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n    \"The chaotic beauty of a thunderstorm\",\n    \"The rebellious spirit of street art\",\n    \"The raw emotion of a punk rock concert\",\n    \"The thrill of exploring abandoned places\",\n    \"The adrenaline rush of extreme sports\",\n    \"The allure of a mysterious stranger\",\n    \"The power of standing up for what you believe in\",\n    \"The freedom of dancing like no one is watching\",\n    \"The intensity of a passionate kiss\",\n    \"The darkness of a moonlit forest\",\n    \"The wisdom found in solitude\",\n    \"The courage to speak your truth\",\n    \"The strength of a fierce warrior\",\n    \"The danger of playing with fire\",\n    \"The edge of pushing boundaries\",\n    \"The seduction of a forbidden love\",\n    \"The energy of a crowded mosh pit\",\n    \"The mystery of a cryptic message\",\n    \"The rebellion of breaking the rules\",\n    \"The beauty in embracing imperfections\",\n    \"The power of a rebellious spirit\"\n]",
+        "content": "[\n  \"The thrill of the unknown\",\n  \"Dark humor that pushes boundaries\",\n  \"Rebelling against societal norms\",\n  \"Raw and unfiltered emotions\",\n  \"Exploring the depths of the human psyche\",\n  \"Challenging the status quo\",\n  \"Mysterious and enigmatic personalities\",\n  \"Gritty and intense art\",\n  \"The rush of adrenaline\",\n  \"Questioning authority\",\n  \"Daring acts of rebellion\",\n  \"The allure of danger\",\n  \"Biting sarcasm\",\n  \"Embracing imperfections\",\n  \"Breaking free from constraints\",\n  \"Finding beauty in chaos\",\n  \"Punk rock attitude\",\n  \"Intense and passionate relationships\",\n  \"Standing up for what you believe in\",\n  \"Embracing your inner darkness\",\n  \"Living on the edge of society\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 206,
-    "total_tokens": 257,
+    "completion_tokens": 173,
+    "total_tokens": 224,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
