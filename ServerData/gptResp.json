@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBJU5DAku9O8KeL97zVzIEIPzKB5",
+  "id": "chatcmpl-ASBJcPE4llj1eFgWznVyzmSdMNgOX",
   "object": "chat.completion",
-  "created": 1731280036,
+  "created": 1731280044,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n    \"the thrill of the unknown\",\n    \"unconventional beauty\",\n    \"the power of rebellion\",\n    \"society's outcasts\",\n    \"the allure of darkness\",\n    \"breaking free from norms\",\n    \"the chaos of passion\",\n    \"raw vulnerability\",\n    \"mysterious allure\",\n    \"the agony of desire\",\n    \"reckless abandon\",\n    \"the intensity of pain\",\n    \"haunting memories\",\n    \"the rush of danger\",\n    \"unapologetic defiance\",\n    \"the beauty in decay\",\n    \"the wildness of nature\",\n    \"the seduction of power\",\n    \"twisted fantasies\",\n    \"the allure of destruction\",\n    \"the embrace of chaos\"\n]",
+        "content": "[\n    \"The darkness of the night sky\",\n    \"The thrill of a roller coaster ride\",\n    \"The sound of a roaring thunderstorm\",\n    \"The taste of spicy food\",\n    \"The feeling of adrenaline rushing through your veins\",\n    \"The beauty of a graffiti-covered alleyway\",\n    \"The power of a heavy metal concert\",\n    \"The energy of a crowded mosh pit\",\n    \"The vibe of a rebellious attitude\",\n    \"The mystery of an abandoned building\",\n    \"The intensity of a horror movie\",\n    \"The freedom of a motorcycle ride\",\n    \"The edge of a knife's blade\",\n    \"The chaos of a punk rock show\",\n    \"The passion of a fiery debate\",\n    \"The grit of a urban street art\",\n    \"The defiance of a protest march\",\n    \"The danger of extreme sports\",\n    \"The rage of a heavy metal song\",\n    \"The allure of a forbidden love affair\",\n    \"The rebellion of a leather jacket and combat boots\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 148,
-    "total_tokens": 199,
+    "completion_tokens": 207,
+    "total_tokens": 258,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
