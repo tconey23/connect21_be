@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBKoIf4nSCYcsTa45VUEhcIUw0it",
+  "id": "chatcmpl-ASBKqlwpsCikXu0JEZdguFZkWWkzk",
   "object": "chat.completion",
-  "created": 1731280118,
+  "created": 1731280120,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n  \"The thrill of taking risks\",\n  \"The rush of adrenaline\",\n  \"The feeling of rebellion\",\n  \"The allure of darkness\",\n  \"The beauty of chaos\",\n  \"The power of defiance\",\n  \"The intensity of passion\",\n  \"The ecstasy of freedom\",\n  \"The taste of danger\",\n  \"The seduction of mystery\",\n  \"The energy of rebellion\",\n  \"The edge of the unknown\",\n  \"The intoxication of adrenaline\",\n  \"The rebellion against the norm\",\n  \"The darkness of desire\",\n  \"The fire of determination\",\n  \"The thrill of the forbidden\",\n  \"The power of being different\",\n  \"The allure of the forbidden\",\n  \"The beauty of defiance\",\n  \"The rush of breaking barriers\"\n]",
+        "content": "[\n    \"Rebel hearts that refuse to be tamed\",\n    \"The thrill of pushing boundaries\",\n    \"The beauty in chaos\",\n    \"Dark humor that cuts deep\",\n    \"Raw honesty in a world of lies\",\n    \"Courage in the face of adversity\",\n    \"Unapologetic self-expression\",\n    \"The power of a fearless soul\",\n    \"Finding light in the darkest places\",\n    \"Embracing the unknown with open arms\",\n    \"Society’s misfits and outcasts\",\n    \"Creativity that knows no limits\",\n    \"Breaking free from conformity\",\n    \"The rush of adrenaline in your veins\",\n    \"The allure of the forbidden\",\n    \"Rebellion against the status quo\",\n    \"Loud voices in a world of whispers\",\n    \"Art that challenges the norm\",\n    \"Fearless individuals unafraid to stand out\",\n    \"Defying expectations at every turn\",\n    \"The beauty of imperfection\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 158,
-    "total_tokens": 209,
+    "completion_tokens": 197,
+    "total_tokens": 248,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
