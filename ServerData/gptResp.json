@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBLmgCWAxcbC4ahzHlfZ9HPZFWt6",
+  "id": "chatcmpl-ASBLpDZksD22FopTfZAbYhRmYsK8y",
   "object": "chat.completion",
-  "created": 1731280178,
+  "created": 1731280181,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n    \"The thrill of taking risks\",\n    \"The seduction of the unknown\",\n    \"The beauty of chaos\",\n    \"The allure of rebellion\",\n    \"The power of defiance\",\n    \"The intensity of passion\",\n    \"The freedom of expression\",\n    \"The electricity of adrenaline\",\n    \"The fire of determination\",\n    \"The darkness of mystery\",\n    \"The edge of danger\",\n    \"The rawness of emotion\",\n    \"The strength of resilience\",\n    \"The madness of creativity\",\n    \"The purity of truth\",\n    \"The spark of provocation\",\n    \"The heat of confrontation\",\n    \"The depth of introspection\",\n    \"The complexity of contradiction\",\n    \"The ecstasy of liberation\",\n    \"The magic of transformation\"\n]",
+        "content": "[\n  \"The thrill of the unknown\",\n  \"The adrenaline rush of taking risks\",\n  \"The beauty of chaos\",\n  \"The power of rebellion\",\n  \"The allure of darkness\",\n  \"The intensity of passion\",\n  \"The defiance of authority\",\n  \"The strength in vulnerability\",\n  \"The freedom in solitude\",\n  \"The wisdom of experience\",\n  \"The creativity in madness\",\n  \"The resilience in pain\",\n  \"The truth in lies\",\n  \"The beauty in imperfection\",\n  \"The magic in uncertainty\",\n  \"The strength in scars\",\n  \"The uniqueness of brokenness\",\n  \"The power of self-discovery\",\n  \"The rebellion in nonconformity\",\n  \"The beauty of destruction\",\n  \"The liberation in authenticity\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 155,
-    "total_tokens": 206,
+    "completion_tokens": 159,
+    "total_tokens": 210,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
