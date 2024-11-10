@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBI5uLLXHl0bpUDHxOWAc48wx1Vh",
+  "id": "chatcmpl-ASBINvcA2VBySCPDem1UiJKR9OMSR",
   "object": "chat.completion",
-  "created": 1731279949,
+  "created": 1731279967,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n  \"Skulls as decor\",\n  \"The feeling of adrenaline rushing through your veins\",\n  \"Dark lipstick that never goes out of style\",\n  \"Leather jackets that make you feel like a badass\",\n  \"Tattoos that tell a story\",\n  \"Black coffee to fuel your soul\",\n  \"Gothic architecture that leaves you in awe\",\n  \"Music that speaks to your inner rebel\",\n  \"Flames dancing in the night\",\n  \"The thrill of a roller coaster ride\",\n  \"Rebelling against societal norms\",\n  \"Finding beauty in the darkness\",\n  \"Studded accessories that add an edge to any outfit\",\n  \"Ripped jeans that make a statement\",\n  \"The power of a bold, dark lip\",\n  \"The rush of a thunderstorm\",\n  \"Expressing yourself through art\",\n  \"The feeling of freedom on a motorcycle ride\",\n  \"The mystery of the night sky\",\n  \"Daring to be different\",\n  \"The allure of forbidden love\"\n]",
+        "content": "[\n  \"The thrill of the unknown\",\n  \"Pushing boundaries and smashing expectations\",\n  \"Raw, unfiltered emotion\",\n  \"Rebelling against the status quo\",\n  \"Chaos and disorder\",\n  \"Standing out from the crowd\",\n  \"Defying societal norms\",\n  \"Embracing the darker side of life\",\n  \"Seeking adrenaline-fueled adventures\",\n  \"Questioning authority and challenging the system\",\n  \"Exploring the depths of the human psyche\",\n  \"Embracing imperfections and flaws\",\n  \"Finding beauty in the unconventional\",\n  \"Living on the edge of society\",\n  \"Searching for meaning in a chaotic world\",\n  \"Breaking free from constraints and limitations\",\n  \"Embracing the power of individuality\",\n  \"Celebrating the unconventional\",\n  \"Diving headfirst into the unknown\",\n  \"Embracing the darker aspects of humanity\",\n  \"Discovering beauty in the darkness\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 208,
-    "total_tokens": 259,
+    "completion_tokens": 195,
+    "total_tokens": 246,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
