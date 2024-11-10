@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-ASBMHi1qISQ5TIIvtlh19QMloDN5Z",
+  "id": "chatcmpl-ASBMMtlTCzX0fcKX1dbpd42QQPXLA",
   "object": "chat.completion",
-  "created": 1731280209,
+  "created": 1731280214,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "[\n  \"The thrill of taking risks\",\n  \"The chaos of creativity\",\n  \"The beauty of imperfection\",\n  \"The power of rebellion\",\n  \"The intensity of passion\",\n  \"The allure of darkness\",\n  \"The music of the underground\",\n  \"The freedom of self-expression\",\n  \"The energy of a mosh pit\",\n  \"The mystery of the unknown\",\n  \"The defiance of societal norms\",\n  \"The grit of urban landscapes\",\n  \"The resilience of the outcasts\",\n  \"The rawness of vulnerability\",\n  \"The edge of danger\",\n  \"The magic of the night\",\n  \"The taste of adrenaline\",\n  \"The spark of defiance\",\n  \"The art of disruption\",\n  \"The poetry of pain\",\n  \"The fire of rebellion\"\n]",
+        "content": "[\n  \"The feeling of an adrenaline rush coursing through your veins\",\n  \"The thrill of pushing boundaries and breaking norms\",\n  \"The beauty found in chaos and destruction\",\n  \"The power of embracing your dark side\",\n  \"The intensity of a passionate love affair\",\n  \"The allure of forbidden desires\",\n  \"The strength in vulnerability and raw emotion\",\n  \"The rebellion against societal constraints\",\n  \"The rush of living on the edge\",\n  \"The satisfaction of defying expectations\",\n  \"The freedom of embracing your uniqueness\",\n  \"The beauty in imperfection and flaws\",\n  \"The excitement of taking risks\",\n  \"The mystique of the unknown\",\n  \"The intensity of a heated argument\",\n  \"The power of standing up for what you believe in\",\n  \"The thrill of a heart-pounding adventure\",\n  \"The allure of mystery and intrigue\",\n  \"The comfort found in solitude and darkness\",\n  \"The exhilaration of a wild night out\",\n  \"The rebellion against conformity and sameness\"\n]",
         "refusal": null
       },
       "logprobs": null,
@@ -17,8 +17,8 @@
   ],
   "usage": {
     "prompt_tokens": 51,
-    "completion_tokens": 163,
-    "total_tokens": 214,
+    "completion_tokens": 211,
+    "total_tokens": 262,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
