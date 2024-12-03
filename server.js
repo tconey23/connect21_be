@@ -3,20 +3,24 @@ import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import admin from 'firebase-admin';
-import serviceAccount from './connect21-d0acd-firebase-adminsdk-zit5f-a090868497.json' assert { type: 'json' };
+
+const serviceAccount = await import('./firebasecredentials.json', {
+  assert: { type: 'json' }
+});
+
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount.default),
+  databaseURL: "https://connect21-d0acd-default-rtdb.firebaseio.com",
+});
 import axios from 'axios';
 
 
-dotenv.config();
-
-admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://connect21-d0acd-default-rtdb.firebaseio.com" // Replace with your correct database URL
-});
+dotenv.config(); 
 
 const db = admin.database(); // Firebase Realtime Database instance
+const auth = admin.auth()
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.json()); // To parse JSON request bodies
@@ -36,6 +40,34 @@ app.get('/api/categories', async (req, res) => {
     return res.status(500).json({ error: 'Internal server error' });
   }
 });
+
+const listAllUsers = async (nextPageToken) => {
+  let userArray = []
+  try {
+    const result = await auth.listUsers(1000, nextPageToken); // Fetch up to 1000 users
+    result.users.forEach((user) => {
+      userArray.push(user.toJSON());
+    });
+
+    // If there are more users, fetch the next page
+    if (result.pageToken) {
+      const users = await listAllUsers(result.pageToken);
+      return users
+    }
+
+    return userArray
+  } catch (error) {
+    console.error('Error listing users:', error);
+  }
+};
+
+app.get('/api/users', async(req, res) => {
+  const userData = await listAllUsers()
+  if(userData){
+    console.log(userData)
+    return res.status(200).json(userData)
+  }
+})
 
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
