@@ -2,7 +2,7 @@ import cron from 'node-cron'
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import admin from 'firebase-admin';
+import admin from 'firebase-admin'; 
 
 const serviceAccount = await import('./firebasecredentials.json', {
   assert: { type: 'json' }
@@ -12,7 +12,6 @@ admin.initializeApp({
   credential: admin.credential.cert(serviceAccount.default),
   databaseURL: "https://connect21-d0acd-default-rtdb.firebaseio.com",
 });
-import axios from 'axios';
 
 
 dotenv.config(); 
@@ -20,7 +19,7 @@ dotenv.config();
 const db = admin.database(); // Firebase Realtime Database instance
 const auth = admin.auth()
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 app.use(cors());
 app.use(express.json()); // To parse JSON request bodies
@@ -69,6 +68,14 @@ app.get('/api/users', async(req, res) => {
   }
 })
 
+app.get('/health', (req, res) => {
+  res.status(200).json({ status: 'Server is healthy' });
+});
+
+
+
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+
+'https://secure-beach-74758-ab0619edd0f3.herokuapp.com/' 
