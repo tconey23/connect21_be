@@ -16,7 +16,7 @@ admin.initializeApp({
 
 dotenv.config(); 
 
-const db = admin.database(); // Firebase Realtime Database instance 
+const db = admin.database(); // Firebase Realtime Database instance  
 const auth = admin.auth()
 const app = express();
 const PORT = process.env.PORT || 5001;
